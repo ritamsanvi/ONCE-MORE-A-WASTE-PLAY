@@ -8,7 +8,7 @@ var engine,world;
 
 function preload()
 {
-	hollowIMG=loadImage("Dustbin.PNG")
+	hollowIMG=loadImage("dustbin.PNG")
 }
 
 function setup() {
